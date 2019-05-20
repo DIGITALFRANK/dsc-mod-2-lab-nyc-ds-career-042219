@@ -1,0 +1,2 @@
+class WeatherGetter():
+    pass
