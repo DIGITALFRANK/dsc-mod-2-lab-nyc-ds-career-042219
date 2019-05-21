@@ -49,3 +49,4 @@ class MongoHandler():
 
     def create_hist():
         pass
+

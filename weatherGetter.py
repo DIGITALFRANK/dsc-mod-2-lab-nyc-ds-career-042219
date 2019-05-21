@@ -1,2 +1,4 @@
-class WeatherGetter():
-    pass
+class WeatherGetter():   
+
+    def perc_rain_wins():
+        pass
